@@ -1,0 +1,33 @@
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3\3rdstep\3rdstep\bin\Debug\3rdstep.exe.config
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3\3rdstep\3rdstep\bin\Debug\3rdstep.exe
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3\3rdstep\3rdstep\bin\Debug\3rdstep.pdb
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3\3rdstep\3rdstep\obj\Debug\3rdstep.csproj.AssemblyReference.cache
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3\3rdstep\3rdstep\obj\Debug\3rdstep.csproj.SuggestedBindingRedirects.cache
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3\3rdstep\3rdstep\obj\Debug\_3rdstep.Form1.resources
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3\3rdstep\3rdstep\obj\Debug\_3rdstep.Properties.Resources.resources
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3\3rdstep\3rdstep\obj\Debug\3rdstep.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3\3rdstep\3rdstep\obj\Debug\3rdstep.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3\3rdstep\3rdstep\obj\Debug\3rdstep.exe
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3\3rdstep\3rdstep\obj\Debug\3rdstep.pdb
+C:\Users\user\Desktop\3rdstep\3rdstep\bin\Debug\3rdstep.exe.config
+C:\Users\user\Desktop\3rdstep\3rdstep\bin\Debug\3rdstep.exe
+C:\Users\user\Desktop\3rdstep\3rdstep\bin\Debug\3rdstep.pdb
+C:\Users\user\Desktop\3rdstep\3rdstep\obj\Debug\3rdstep.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\3rdstep\3rdstep\obj\Debug\3rdstep.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\3rdstep\3rdstep\obj\Debug\_3rdstep.Form1.resources
+C:\Users\user\Desktop\3rdstep\3rdstep\obj\Debug\_3rdstep.Properties.Resources.resources
+C:\Users\user\Desktop\3rdstep\3rdstep\obj\Debug\3rdstep.csproj.GenerateResource.cache
+C:\Users\user\Desktop\3rdstep\3rdstep\obj\Debug\3rdstep.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\3rdstep\3rdstep\obj\Debug\3rdstep.exe
+C:\Users\user\Desktop\3rdstep\3rdstep\obj\Debug\3rdstep.pdb
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3.final\3rdstep\3rdstep\bin\Debug\3rdstep.exe.config
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3.final\3rdstep\3rdstep\bin\Debug\3rdstep.exe
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3.final\3rdstep\3rdstep\bin\Debug\3rdstep.pdb
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3.final\3rdstep\3rdstep\obj\Debug\3rdstep.csproj.AssemblyReference.cache
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3.final\3rdstep\3rdstep\obj\Debug\3rdstep.csproj.SuggestedBindingRedirects.cache
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3.final\3rdstep\3rdstep\obj\Debug\_3rdstep.Form1.resources
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3.final\3rdstep\3rdstep\obj\Debug\_3rdstep.Properties.Resources.resources
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3.final\3rdstep\3rdstep\obj\Debug\3rdstep.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3.final\3rdstep\3rdstep\obj\Debug\3rdstep.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3.final\3rdstep\3rdstep\obj\Debug\3rdstep.exe
+C:\Users\Артур\Desktop\Амир\Курсовая C#\News3.final\3rdstep\3rdstep\obj\Debug\3rdstep.pdb

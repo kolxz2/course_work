@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Работы 2 этап\2(сделал)-Кирилл(стек дин массив, адрес список)\LibraryTrird\LibraryThird\LibraryThird\bin\Debug\LibraryThird.exe.config
+C:\Users\user\source\repos\Работы 2 этап\2(сделал)-Кирилл(стек дин массив, адрес список)\LibraryTrird\LibraryThird\LibraryThird\bin\Debug\LibraryThird.exe
+C:\Users\user\source\repos\Работы 2 этап\2(сделал)-Кирилл(стек дин массив, адрес список)\LibraryTrird\LibraryThird\LibraryThird\bin\Debug\LibraryThird.pdb
+C:\Users\user\source\repos\Работы 2 этап\2(сделал)-Кирилл(стек дин массив, адрес список)\LibraryTrird\LibraryThird\LibraryThird\obj\Debug\LibraryThird.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Работы 2 этап\2(сделал)-Кирилл(стек дин массив, адрес список)\LibraryTrird\LibraryThird\LibraryThird\obj\Debug\LibraryThird.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Работы 2 этап\2(сделал)-Кирилл(стек дин массив, адрес список)\LibraryTrird\LibraryThird\LibraryThird\obj\Debug\LibraryThird.Form1.resources
+C:\Users\user\source\repos\Работы 2 этап\2(сделал)-Кирилл(стек дин массив, адрес список)\LibraryTrird\LibraryThird\LibraryThird\obj\Debug\LibraryThird.Properties.Resources.resources
+C:\Users\user\source\repos\Работы 2 этап\2(сделал)-Кирилл(стек дин массив, адрес список)\LibraryTrird\LibraryThird\LibraryThird\obj\Debug\LibraryThird.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Работы 2 этап\2(сделал)-Кирилл(стек дин массив, адрес список)\LibraryTrird\LibraryThird\LibraryThird\obj\Debug\LibraryThird.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Работы 2 этап\2(сделал)-Кирилл(стек дин массив, адрес список)\LibraryTrird\LibraryThird\LibraryThird\obj\Debug\LibraryThird.exe
+C:\Users\user\source\repos\Работы 2 этап\2(сделал)-Кирилл(стек дин массив, адрес список)\LibraryTrird\LibraryThird\LibraryThird\obj\Debug\LibraryThird.pdb

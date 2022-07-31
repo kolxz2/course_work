@@ -1,0 +1,10 @@
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\ВоваЭтап3\ВоваЭтап3\bin\Debug\ВоваЭтап3.exe.config
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\ВоваЭтап3\ВоваЭтап3\bin\Debug\ВоваЭтап3.exe
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\ВоваЭтап3\ВоваЭтап3\bin\Debug\ВоваЭтап3.pdb
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\ВоваЭтап3\ВоваЭтап3\obj\Debug\ВоваЭтап3.csproj.AssemblyReference.cache
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\ВоваЭтап3\ВоваЭтап3\obj\Debug\ВоваЭтап3.Form1.resources
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\ВоваЭтап3\ВоваЭтап3\obj\Debug\ВоваЭтап3.Properties.Resources.resources
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\ВоваЭтап3\ВоваЭтап3\obj\Debug\ВоваЭтап3.csproj.GenerateResource.cache
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\ВоваЭтап3\ВоваЭтап3\obj\Debug\ВоваЭтап3.csproj.CoreCompileInputs.cache
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\ВоваЭтап3\ВоваЭтап3\obj\Debug\ВоваЭтап3.exe
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\ВоваЭтап3\ВоваЭтап3\obj\Debug\ВоваЭтап3.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Работы 2 этап\9-Тимур(очередь дин масс, адрес список)\tretie\step3\step3\bin\Debug\step3.exe.config
+C:\Users\user\source\repos\Работы 2 этап\9-Тимур(очередь дин масс, адрес список)\tretie\step3\step3\bin\Debug\step3.exe
+C:\Users\user\source\repos\Работы 2 этап\9-Тимур(очередь дин масс, адрес список)\tretie\step3\step3\bin\Debug\step3.pdb
+C:\Users\user\source\repos\Работы 2 этап\9-Тимур(очередь дин масс, адрес список)\tretie\step3\step3\obj\Debug\step3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Работы 2 этап\9-Тимур(очередь дин масс, адрес список)\tretie\step3\step3\obj\Debug\step3.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Работы 2 этап\9-Тимур(очередь дин масс, адрес список)\tretie\step3\step3\obj\Debug\step3.Form1.resources
+C:\Users\user\source\repos\Работы 2 этап\9-Тимур(очередь дин масс, адрес список)\tretie\step3\step3\obj\Debug\step3.Properties.Resources.resources
+C:\Users\user\source\repos\Работы 2 этап\9-Тимур(очередь дин масс, адрес список)\tretie\step3\step3\obj\Debug\step3.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Работы 2 этап\9-Тимур(очередь дин масс, адрес список)\tretie\step3\step3\obj\Debug\step3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Работы 2 этап\9-Тимур(очередь дин масс, адрес список)\tretie\step3\step3\obj\Debug\step3.exe
+C:\Users\user\source\repos\Работы 2 этап\9-Тимур(очередь дин масс, адрес список)\tretie\step3\step3\obj\Debug\step3.pdb

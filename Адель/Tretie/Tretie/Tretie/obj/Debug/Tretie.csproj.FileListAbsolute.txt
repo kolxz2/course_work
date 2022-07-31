@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Работы 2 этап\8(сделал)-Адель(очередь дин массив, адрес список)\Tretie\Tretie\Tretie\bin\Debug\Tretie.exe.config
+C:\Users\user\source\repos\Работы 2 этап\8(сделал)-Адель(очередь дин массив, адрес список)\Tretie\Tretie\Tretie\bin\Debug\Tretie.exe
+C:\Users\user\source\repos\Работы 2 этап\8(сделал)-Адель(очередь дин массив, адрес список)\Tretie\Tretie\Tretie\bin\Debug\Tretie.pdb
+C:\Users\user\source\repos\Работы 2 этап\8(сделал)-Адель(очередь дин массив, адрес список)\Tretie\Tretie\Tretie\obj\Debug\Tretie.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Работы 2 этап\8(сделал)-Адель(очередь дин массив, адрес список)\Tretie\Tretie\Tretie\obj\Debug\Tretie.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Работы 2 этап\8(сделал)-Адель(очередь дин массив, адрес список)\Tretie\Tretie\Tretie\obj\Debug\Tretie.Form1.resources
+C:\Users\user\source\repos\Работы 2 этап\8(сделал)-Адель(очередь дин массив, адрес список)\Tretie\Tretie\Tretie\obj\Debug\Tretie.Properties.Resources.resources
+C:\Users\user\source\repos\Работы 2 этап\8(сделал)-Адель(очередь дин массив, адрес список)\Tretie\Tretie\Tretie\obj\Debug\Tretie.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Работы 2 этап\8(сделал)-Адель(очередь дин массив, адрес список)\Tretie\Tretie\Tretie\obj\Debug\Tretie.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Работы 2 этап\8(сделал)-Адель(очередь дин массив, адрес список)\Tretie\Tretie\Tretie\obj\Debug\Tretie.exe
+C:\Users\user\source\repos\Работы 2 этап\8(сделал)-Адель(очередь дин массив, адрес список)\Tretie\Tretie\Tretie\obj\Debug\Tretie.pdb

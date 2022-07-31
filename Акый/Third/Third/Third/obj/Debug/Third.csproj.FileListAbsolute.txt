@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Работы 2 этап\7(сделал)-Акый(Адрес стек, очередь обыч. массив)\Third\Third\Third\bin\Debug\Third.exe.config
+C:\Users\user\source\repos\Работы 2 этап\7(сделал)-Акый(Адрес стек, очередь обыч. массив)\Third\Third\Third\bin\Debug\Third.exe
+C:\Users\user\source\repos\Работы 2 этап\7(сделал)-Акый(Адрес стек, очередь обыч. массив)\Third\Third\Third\bin\Debug\Third.pdb
+C:\Users\user\source\repos\Работы 2 этап\7(сделал)-Акый(Адрес стек, очередь обыч. массив)\Third\Third\Third\obj\Debug\Third.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Работы 2 этап\7(сделал)-Акый(Адрес стек, очередь обыч. массив)\Third\Third\Third\obj\Debug\Third.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Работы 2 этап\7(сделал)-Акый(Адрес стек, очередь обыч. массив)\Third\Third\Third\obj\Debug\Third.Form1.resources
+C:\Users\user\source\repos\Работы 2 этап\7(сделал)-Акый(Адрес стек, очередь обыч. массив)\Third\Third\Third\obj\Debug\Third.Properties.Resources.resources
+C:\Users\user\source\repos\Работы 2 этап\7(сделал)-Акый(Адрес стек, очередь обыч. массив)\Third\Third\Third\obj\Debug\Third.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Работы 2 этап\7(сделал)-Акый(Адрес стек, очередь обыч. массив)\Third\Third\Third\obj\Debug\Third.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Работы 2 этап\7(сделал)-Акый(Адрес стек, очередь обыч. массив)\Third\Third\Third\obj\Debug\Third.exe
+C:\Users\user\source\repos\Работы 2 этап\7(сделал)-Акый(Адрес стек, очередь обыч. массив)\Third\Third\Third\obj\Debug\Third.pdb

@@ -1,0 +1,21 @@
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\Urist3этап\Urist3этап\bin\Debug\Urist3этап.exe.config
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\Urist3этап\Urist3этап\bin\Debug\Urist3этап.exe
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\Urist3этап\Urist3этап\bin\Debug\Urist3этап.pdb
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\Urist3этап\Urist3этап\obj\Debug\Urist3этап.csproj.AssemblyReference.cache
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\Urist3этап\Urist3этап\obj\Debug\Urist3этап.Form1.resources
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\Urist3этап\Urist3этап\obj\Debug\Urist3этап.Properties.Resources.resources
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\Urist3этап\Urist3этап\obj\Debug\Urist3этап.csproj.GenerateResource.cache
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\Urist3этап\Urist3этап\obj\Debug\Urist3этап.csproj.CoreCompileInputs.cache
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\Urist3этап\Urist3этап\obj\Debug\Urist3этап.exe
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\Urist3этап\Urist3этап\obj\Debug\Urist3этап.pdb
+C:\Users\user\source\repos\Работы 2 этап\12(1 этап)-Рамиль(кольцо очередь,дин список)\Urist3этап\Urist3этап\bin\Debug\Urist3этап.exe.config
+C:\Users\user\source\repos\Работы 2 этап\12(1 этап)-Рамиль(кольцо очередь,дин список)\Urist3этап\Urist3этап\bin\Debug\Urist3этап.exe
+C:\Users\user\source\repos\Работы 2 этап\12(1 этап)-Рамиль(кольцо очередь,дин список)\Urist3этап\Urist3этап\bin\Debug\Urist3этап.pdb
+C:\Users\user\source\repos\Работы 2 этап\12(1 этап)-Рамиль(кольцо очередь,дин список)\Urist3этап\Urist3этап\obj\Debug\Urist3этап.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Работы 2 этап\12(1 этап)-Рамиль(кольцо очередь,дин список)\Urist3этап\Urist3этап\obj\Debug\Urist3этап.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Работы 2 этап\12(1 этап)-Рамиль(кольцо очередь,дин список)\Urist3этап\Urist3этап\obj\Debug\Urist3этап.Form1.resources
+C:\Users\user\source\repos\Работы 2 этап\12(1 этап)-Рамиль(кольцо очередь,дин список)\Urist3этап\Urist3этап\obj\Debug\Urist3этап.Properties.Resources.resources
+C:\Users\user\source\repos\Работы 2 этап\12(1 этап)-Рамиль(кольцо очередь,дин список)\Urist3этап\Urist3этап\obj\Debug\Urist3этап.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Работы 2 этап\12(1 этап)-Рамиль(кольцо очередь,дин список)\Urist3этап\Urist3этап\obj\Debug\Urist3этап.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Работы 2 этап\12(1 этап)-Рамиль(кольцо очередь,дин список)\Urist3этап\Urist3этап\obj\Debug\Urist3этап.exe
+C:\Users\user\source\repos\Работы 2 этап\12(1 этап)-Рамиль(кольцо очередь,дин список)\Urist3этап\Urist3этап\obj\Debug\Urist3этап.pdb

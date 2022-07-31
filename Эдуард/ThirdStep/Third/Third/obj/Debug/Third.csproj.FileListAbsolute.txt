@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Работы 2 этап\6(сделал)-Эдуард(стек обычн масс, адрес список)\ThirdStep\Third\Third\obj\Debug\Third.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Работы 2 этап\6(сделал)-Эдуард(стек обычн масс, адрес список)\ThirdStep\Third\Third\obj\Debug\Third.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Работы 2 этап\6(сделал)-Эдуард(стек обычн масс, адрес список)\ThirdStep\Third\Third\obj\Debug\Third.Form1.resources
+C:\Users\user\source\repos\Работы 2 этап\6(сделал)-Эдуард(стек обычн масс, адрес список)\ThirdStep\Third\Third\obj\Debug\Third.Properties.Resources.resources
+C:\Users\user\source\repos\Работы 2 этап\6(сделал)-Эдуард(стек обычн масс, адрес список)\ThirdStep\Third\Third\obj\Debug\Third.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Работы 2 этап\6(сделал)-Эдуард(стек обычн масс, адрес список)\ThirdStep\Third\Third\obj\Debug\Third.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Работы 2 этап\6(сделал)-Эдуард(стек обычн масс, адрес список)\ThirdStep\Third\Third\bin\Debug\Third.exe.config
+C:\Users\user\source\repos\Работы 2 этап\6(сделал)-Эдуард(стек обычн масс, адрес список)\ThirdStep\Third\Third\bin\Debug\Third.exe
+C:\Users\user\source\repos\Работы 2 этап\6(сделал)-Эдуард(стек обычн масс, адрес список)\ThirdStep\Third\Third\bin\Debug\Third.pdb
+C:\Users\user\source\repos\Работы 2 этап\6(сделал)-Эдуард(стек обычн масс, адрес список)\ThirdStep\Third\Third\obj\Debug\Third.exe
+C:\Users\user\source\repos\Работы 2 этап\6(сделал)-Эдуард(стек обычн масс, адрес список)\ThirdStep\Third\Third\obj\Debug\Third.pdb

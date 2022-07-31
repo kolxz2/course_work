@@ -1,0 +1,22 @@
+C:\Users\user\source\repos\Работы 2 этап\13(1 этап)-Назим(очередь дин мас,адрес список)\AviaCompany3\AviaCompany\AviaCompany\bin\Debug\AviaCompany.exe.config
+C:\Users\user\source\repos\Работы 2 этап\13(1 этап)-Назим(очередь дин мас,адрес список)\AviaCompany3\AviaCompany\AviaCompany\bin\Debug\AviaCompany.exe
+C:\Users\user\source\repos\Работы 2 этап\13(1 этап)-Назим(очередь дин мас,адрес список)\AviaCompany3\AviaCompany\AviaCompany\bin\Debug\AviaCompany.pdb
+C:\Users\user\source\repos\Работы 2 этап\13(1 этап)-Назим(очередь дин мас,адрес список)\AviaCompany3\AviaCompany\AviaCompany\obj\Debug\AviaCompany.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Работы 2 этап\13(1 этап)-Назим(очередь дин мас,адрес список)\AviaCompany3\AviaCompany\AviaCompany\obj\Debug\AviaCompany.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Работы 2 этап\13(1 этап)-Назим(очередь дин мас,адрес список)\AviaCompany3\AviaCompany\AviaCompany\obj\Debug\AviaCompany.Form1.resources
+C:\Users\user\source\repos\Работы 2 этап\13(1 этап)-Назим(очередь дин мас,адрес список)\AviaCompany3\AviaCompany\AviaCompany\obj\Debug\AviaCompany.Properties.Resources.resources
+C:\Users\user\source\repos\Работы 2 этап\13(1 этап)-Назим(очередь дин мас,адрес список)\AviaCompany3\AviaCompany\AviaCompany\obj\Debug\AviaCompany.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Работы 2 этап\13(1 этап)-Назим(очередь дин мас,адрес список)\AviaCompany3\AviaCompany\AviaCompany\obj\Debug\AviaCompany.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Работы 2 этап\13(1 этап)-Назим(очередь дин мас,адрес список)\AviaCompany3\AviaCompany\AviaCompany\obj\Debug\AviaCompany.exe
+C:\Users\user\source\repos\Работы 2 этап\13(1 этап)-Назим(очередь дин мас,адрес список)\AviaCompany3\AviaCompany\AviaCompany\obj\Debug\AviaCompany.pdb
+C:\Users\user\Desktop\AviaCompany3\AviaCompany\AviaCompany\bin\Debug\AviaCompany.exe.config
+C:\Users\user\Desktop\AviaCompany3\AviaCompany\AviaCompany\bin\Debug\AviaCompany.exe
+C:\Users\user\Desktop\AviaCompany3\AviaCompany\AviaCompany\bin\Debug\AviaCompany.pdb
+C:\Users\user\Desktop\AviaCompany3\AviaCompany\AviaCompany\obj\Debug\AviaCompany.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AviaCompany3\AviaCompany\AviaCompany\obj\Debug\AviaCompany.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\AviaCompany3\AviaCompany\AviaCompany\obj\Debug\AviaCompany.Form1.resources
+C:\Users\user\Desktop\AviaCompany3\AviaCompany\AviaCompany\obj\Debug\AviaCompany.Properties.Resources.resources
+C:\Users\user\Desktop\AviaCompany3\AviaCompany\AviaCompany\obj\Debug\AviaCompany.csproj.GenerateResource.cache
+C:\Users\user\Desktop\AviaCompany3\AviaCompany\AviaCompany\obj\Debug\AviaCompany.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AviaCompany3\AviaCompany\AviaCompany\obj\Debug\AviaCompany.exe
+C:\Users\user\Desktop\AviaCompany3\AviaCompany\AviaCompany\obj\Debug\AviaCompany.pdb

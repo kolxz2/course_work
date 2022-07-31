@@ -1,0 +1,10 @@
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\3ЭтапКлиника\3ЭтапКлиника\bin\Debug\3ЭтапКлиника.exe.config
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\3ЭтапКлиника\3ЭтапКлиника\bin\Debug\3ЭтапКлиника.exe
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\3ЭтапКлиника\3ЭтапКлиника\bin\Debug\3ЭтапКлиника.pdb
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\3ЭтапКлиника\3ЭтапКлиника\obj\Debug\3ЭтапКлиника.csproj.AssemblyReference.cache
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\3ЭтапКлиника\3ЭтапКлиника\obj\Debug\_3ЭтапКлиника.Form1.resources
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\3ЭтапКлиника\3ЭтапКлиника\obj\Debug\_3ЭтапКлиника.Properties.Resources.resources
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\3ЭтапКлиника\3ЭтапКлиника\obj\Debug\3ЭтапКлиника.csproj.GenerateResource.cache
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\3ЭтапКлиника\3ЭтапКлиника\obj\Debug\3ЭтапКлиника.csproj.CoreCompileInputs.cache
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\3ЭтапКлиника\3ЭтапКлиника\obj\Debug\3ЭтапКлиника.exe
+C:\Users\HP15-BC404\Desktop\OOP\КурсовыеНЕСЕБЕ\3ЭтапКлиника\3ЭтапКлиника\obj\Debug\3ЭтапКлиника.pdb
